@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Start Getting Some Shit Done
-category: posts
 ---
 
 It's always easier to start than to finish. As a reminder to myself, here's the list for shit I'm planning to get done in the coming months:

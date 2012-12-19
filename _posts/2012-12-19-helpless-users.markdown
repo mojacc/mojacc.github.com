@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 没救的用户
-category: posts
 ---
 
 豆瓣这几天改版。
