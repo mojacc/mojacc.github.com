@@ -4,3 +4,4 @@ permalink: /posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
+main_title: Random Thoughts Of A Geek

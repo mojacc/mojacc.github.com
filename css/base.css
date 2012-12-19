@@ -205,3 +205,9 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+
+/* Disqus */
+#disqus_thread {
+  margin-left: 110px;
+  width: 650px;
+}
