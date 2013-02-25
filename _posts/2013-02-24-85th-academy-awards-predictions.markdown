@@ -18,13 +18,13 @@ title: 85届奥斯卡金像奖预测
 * *ACTOR - IN A LEADING ROLE*
 	* Bradley Cooper
 	* Joaquin Phoenix
-	* **Daniel Day-Lewis**
+	* **Daniel Day-Lewis** - *Winner*
 	* Denzel Washington
 	* Hugh Jackman
 * *ACTRESS - IN A LEADING ROLE*
 	* **Jessica Chastain**
 	* Quvenzhané Wallis
-	* Jennifer Lawrence
+	* Jennifer Lawrence - *Winner*
 	* Naomi Watts
 	* Emmanuelle Riva
 * *ACTOR - IN A SUPPORTING ROLE*
@@ -32,15 +32,15 @@ title: 85届奥斯卡金像奖预测
 	* Robert De Niro
 	* **Philip Seymour Hoffman**
 	* Tommy Lee Jones
-	* Christoph Waltz
+	* Christoph Waltz - *Winner*
 * *ACTRESS - IN A SUPPORTING ROLE*
 	* Amy Adams
 	* Sally Field
-	* **Anne Hathaway**
+	* **Anne Hathaway** - *Winner*
 	* Helen Hunt
 	* Jacki Weaver
 * *ANIMATED FEATURE FILM*
-	* **Brave**
+	* **Brave** - *Winner*
 	* Frankenweenie
 	* ParaNorman
 	* The Pirates! Band of Misfits
@@ -48,11 +48,11 @@ title: 85届奥斯卡金像奖预测
 * *CINEMATOGRAPHY*
 	* Anna Karenina
 	* Django Unchained
-	* Life of Pi
+	* Life of Pi - *Winner*
 	* Lincoln
 	* **Skyfall**
 * *COSTUME DESIGN*
-	* Anna Karenina
+	* Anna Karenina - *Winner*
 	* **Les Misérables**
 	* Lincoln
 	* Mirror Mirror
@@ -60,7 +60,7 @@ title: 85届奥斯卡金像奖预测
 * *DIRECTING*
 	* Amour
 	* Beasts of the Southern Wild
-	* Life of Pi
+	* Life of Pi - *Winner*
 	* Lincoln
 	* **Silver Linings Playbook**
 * *DOCUMENTARY FEATURE*
@@ -68,15 +68,15 @@ title: 85届奥斯卡金像奖预测
 	* The Gatekeepers
 	* How to Survive a Plague
 	* The Invisible War
-	* **Searching for Sugar Man**
+	* **Searching for Sugar Man** - *Winner*
 * *FILM EDITING*
-	* **Argo**
+	* **Argo** - *Winner*
 	* Life of Pi
 	* Lincoln
 	* Silver Linings Playbook
 	* Zero Dark Thirty
 * *FOREIGN LANGUAGE FILM*
-	* **Amour**
+	* **Amour** - *Winner*
 	* Kon-Tiki
 	* No
 	* A Royal Affair
@@ -84,52 +84,52 @@ title: 85届奥斯卡金像奖预测
 * *MAKEUP AND HAIRSTYLING*
 	* Hitchcock
 	* The Hobbit: An Unexpected Journey
-	* **Les Misérables**
+	* **Les Misérables** - *Winner*
 * *MUSIC - ORIGINAL SCORE*
 	* Anna Karenina
 	* Argo
-	* **Life of Pi**
+	* **Life of Pi** - *Winner*
 	* Lincoln
 	* Skyfall
 * *MUSIC - ORIGINAL SONG*
 	* "Before My Time" from Chasing Ice
 	* "Everybody Needs A Best Friend" from Ted
 	* "Pi's Lullaby" from Life of Pi
-	* "Skyfall" from Skyfall
+	* "Skyfall" from Skyfall - *Winner*
 	* **"Suddenly" from Les Misérables**
 * *PRODUCTION DESIGN*
 	* Anna Karenina
 	* The Hobbit: An Unexpected Journey
 	* **Les Misérables**
 	* Life of Pi
-	* Lincoln
+	* Lincoln - *Winner*
 * *SOUND EDITING*
 	* Argo
 	* Django Unchained
 	* Life of Pi
-	* Skyfall
-	* **Zero Dark Thirty**
+	* Skyfall - *Winner*
+	* **Zero Dark Thirty** - *Winner*
 * *SOUND MIXING*
 	* Argo
-	* **Les Misérables**
+	* **Les Misérables** - *Winner*
 	* Life of Pi
 	* Lincoln
 	* Skyfall
 * *VISUAL EFFECTS*
 	* The Hobbit: An Unexpected Journey
-	* **Life of Pi**
+	* **Life of Pi** - *Winner*
 	* Marvel's The Avengers
 	* Prometheus
 	* Snow White and the Huntsman
 * *WRITING - ADAPTED SCREENPLAY*
-	* **Argo**
+	* **Argo** - *Winner*
 	* Beasts of the Southern Wild
 	* Life of Pi
 	* Lincoln
 	* Silver Linings Playbook
 * *WRITING - ORIGINAL SCREENPLAY*
 	* Amour
-	* **Django Unchained**
+	* **Django Unchained** - *Winner*
 	* Flight
 	* Moonrise Kingdom
 	* Zero Dark Thirty
@@ -139,3 +139,6 @@ title: 85届奥斯卡金像奖预测
 * 小本和卡梅隆ex没最佳导演提名完全没道理
 * 个人认为各项最佳都该给Zero Dark Thirty，可惜在美国这种保守主义为主流价值观的地方，如此政治不正确的片是上不了学院奖这种台面的。
 * 云图粉们，请问你们心中的神作在哪？我怎么连个提名都没看到？#不遗余力黑云图粉#
+
+Update:
+  预测如果更保守点，最佳歌曲最佳男配最佳女主就都跑不了了。
