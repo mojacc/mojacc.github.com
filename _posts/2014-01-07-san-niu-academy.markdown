@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 三牛学院
+external-url: http://san-niu.com
 ---
 
 [**三牛学院**][三牛学院]是朋友办的教育咨询公司。

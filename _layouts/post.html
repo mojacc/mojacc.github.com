@@ -4,7 +4,11 @@ layout: layout
 
 <section class="content">
   <h1>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    {% if page.external-url %}
+      <a class="external" href="{{ page.external-url }}">{{ page.title }}</a>&nbsp;&nbsp;<a href="{{ page.url }}"><i class="fa fa-star"></i></a>
+    {% else %}
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
   </h1>
 
   <section class="byline">
