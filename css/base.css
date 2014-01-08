@@ -47,8 +47,8 @@ a {
     .sidebar .sections a {
       padding: 3px 0;
       color: black;
-      font-weight: bold;
-      font-size: 12px;
+      font-weight: 400;
+      font-size: 16px;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -165,15 +165,18 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 15px;
+      font-size: 16px;
       list-style: none;
       padding: 15px 3px;
       margin: 0;
       font-weight: 800;
       color: #777777;
       border-bottom: 1px solid #eee; }
-    .content .listing li span {
-      float: right; }
+    .content .listing li span.date {
+      float: right;
+      font-size: 14px;
+      font-weight: 200;
+    }
     .content .listing a {
       text-decoration: none; }
     .content .listing a.external {
@@ -184,6 +187,7 @@ a {
     .content .listing li .excerpt {
       padding-top: 10px;
       padding-left: 20px;
+      font-size: 13px;
     }
     .content .listing li .excerpt p {
       font-size: 13px;
