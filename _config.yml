@@ -4,4 +4,4 @@ permalink: pretty
 rdiscount:
   extensions: [smart]
 main_title: Random Thoughts Of A Geek
-baseurl: http://mojacc.com
+baseurl: http://www.mojacc.com
