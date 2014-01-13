@@ -228,3 +228,8 @@ a {
   margin-left: 110px;
   width: 650px;
 }
+
+.content img.poster {
+  width: 450px;
+  height: auto;
+}

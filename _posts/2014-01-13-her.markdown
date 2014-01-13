@@ -8,4 +8,4 @@ excerpt: <p>My movie of the year 2013.</p>
 
 My movie of the year 2013.
 
-Just like my movie of the year 2012: [Zero Dark Thirty](http://movie.douban.com/subject/6430835/), it is a movie that I would go to the cinema to watch it again just because: <center><img src="http://s3-ap-southeast-2.amazonaws.com/www.mojacc.com/shut-up-and-take-my-money.jpg" style="display: inline"></center>
+Just like my movie of the year 2012: [Zero Dark Thirty](http://movie.douban.com/subject/6430835/), it is a movie that I would go to the cinema to watch it again just because: <center><img src="http://s3-ap-southeast-2.amazonaws.com/www.mojacc.com/shut-up-and-take-my-money.jpg"></center>
