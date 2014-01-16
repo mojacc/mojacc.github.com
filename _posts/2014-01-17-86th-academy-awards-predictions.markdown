@@ -1,0 +1,137 @@
+---
+layout: post
+title: 86届奥斯卡金像奖预测
+published: false
+---
+
+废话少说:
+
+* *BEST PICTURE*
+    * Amour
+    * Life of Pi
+    * **Argo**
+    * Lincoln
+    * Beasts of the Southern Wild
+    * Silver Linings Playbook
+    * Django Unchained
+    * Zero Dark Thirty
+    * Les Misérables
+* *ACTOR - IN A LEADING ROLE*
+    * Bradley Cooper
+    * Joaquin Phoenix
+    * **Daniel Day-Lewis**
+    * Denzel Washington
+    * Hugh Jackman
+* *ACTRESS - IN A LEADING ROLE*
+    * **Jessica Chastain**
+    * Quvenzhané Wallis
+    * Jennifer Lawrence
+    * Naomi Watts
+    * Emmanuelle Riva
+* *ACTOR - IN A SUPPORTING ROLE*
+    * Alan Arkin
+    * Robert De Niro
+    * **Philip Seymour Hoffman**
+    * Tommy Lee Jones
+    * Christoph Waltz
+* *ACTRESS - IN A SUPPORTING ROLE*
+    * Amy Adams
+    * Sally Field
+    * **Anne Hathaway**
+    * Helen Hunt
+    * Jacki Weaver
+* *ANIMATED FEATURE FILM*
+    * **Brave**
+    * Frankenweenie
+    * ParaNorman
+    * The Pirates! Band of Misfits
+    * Wreck-It Ralph
+* *CINEMATOGRAPHY*
+    * Anna Karenina
+    * Django Unchained
+    * Life of Pi
+    * Lincoln
+    * **Skyfall**
+* *COSTUME DESIGN*
+    * Anna Karenina
+    * **Les Misérables**
+    * Lincoln
+    * Mirror Mirror
+    * Snow White and the Huntsman
+* *DIRECTING*
+    * Amour
+    * Beasts of the Southern Wild
+    * Life of Pi
+    * Lincoln
+    * **Silver Linings Playbook**
+* *DOCUMENTARY FEATURE*
+    * 5 Broken Cameras
+    * The Gatekeepers
+    * How to Survive a Plague
+    * The Invisible War
+    * **Searching for Sugar Man**
+* *FILM EDITING*
+    * **Argo**
+    * Life of Pi
+    * Lincoln
+    * Silver Linings Playbook
+    * Zero Dark Thirty
+* *FOREIGN LANGUAGE FILM*
+    * **Amour**
+    * Kon-Tiki
+    * No
+    * A Royal Affair
+    * War Witch
+* *MAKEUP AND HAIRSTYLING*
+    * Hitchcock
+    * The Hobbit: An Unexpected Journey
+    * **Les Misérables**
+* *MUSIC - ORIGINAL SCORE*
+    * Anna Karenina
+    * Argo
+    * **Life of Pi**
+    * Lincoln
+    * Skyfall
+* *MUSIC - ORIGINAL SONG*
+    * "Before My Time" from Chasing Ice
+    * "Everybody Needs A Best Friend" from Ted
+    * "Pi's Lullaby" from Life of Pi
+    * "Skyfall" from Skyfall
+    * **"Suddenly" from Les Misérables**
+* *PRODUCTION DESIGN*
+    * Anna Karenina
+    * The Hobbit: An Unexpected Journey
+    * **Les Misérables**
+    * Life of Pi
+    * Lincoln
+* *SOUND EDITING*
+    * Argo
+    * Django Unchained
+    * Life of Pi
+    * Skyfall
+    * **Zero Dark Thirty**
+* *SOUND MIXING*
+    * Argo
+    * **Les Misérables**
+    * Life of Pi
+    * Lincoln
+    * Skyfall
+* *VISUAL EFFECTS*
+    * The Hobbit: An Unexpected Journey
+    * **Life of Pi**
+    * Marvel's The Avengers
+    * Prometheus
+    * Snow White and the Huntsman
+* *WRITING - ADAPTED SCREENPLAY*
+    * **Argo**
+    * Beasts of the Southern Wild
+    * Life of Pi
+    * Lincoln
+    * Silver Linings Playbook
+* *WRITING - ORIGINAL SCREENPLAY*
+    * Amour
+    * **Django Unchained**
+    * Flight
+    * Moonrise Kingdom
+    * Zero Dark Thirty
+
