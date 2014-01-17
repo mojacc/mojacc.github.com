@@ -7,131 +7,131 @@ published: false
 废话少说:
 
 * *BEST PICTURE*
-    * Amour
-    * Life of Pi
-    * **Argo**
-    * Lincoln
-    * Beasts of the Southern Wild
-    * Silver Linings Playbook
-    * Django Unchained
-    * Zero Dark Thirty
-    * Les Misérables
+    * American Hustle
+    * Captain Phillips
+    * Dallas Buyers Club
+    * Gravity
+    * Her
+    * Nebraska
+    * Philomena
+    * 12 Years a Slave
+    * The Wolf of Wall Street
 * *ACTOR - IN A LEADING ROLE*
-    * Bradley Cooper
-    * Joaquin Phoenix
-    * **Daniel Day-Lewis**
-    * Denzel Washington
-    * Hugh Jackman
+    * Christian Bale
+    * Bruce Dern
+    * Leonardo DiCaprio
+    * Chiwetel Ejiofor
+    * Matthew McConaughey
 * *ACTRESS - IN A LEADING ROLE*
-    * **Jessica Chastain**
-    * Quvenzhané Wallis
-    * Jennifer Lawrence
-    * Naomi Watts
-    * Emmanuelle Riva
-* *ACTOR - IN A SUPPORTING ROLE*
-    * Alan Arkin
-    * Robert De Niro
-    * **Philip Seymour Hoffman**
-    * Tommy Lee Jones
-    * Christoph Waltz
-* *ACTRESS - IN A SUPPORTING ROLE*
     * Amy Adams
-    * Sally Field
-    * **Anne Hathaway**
-    * Helen Hunt
-    * Jacki Weaver
+    * Cate Blanchett
+    * Sandra Bullock
+    * Judi Dench
+    * Meryl Streep
+* *ACTOR - IN A SUPPORTING ROLE*
+    * Barkhad Abdi
+    * Bradley Cooper
+    * Michael Fassbender
+    * Jonah Hill
+    * Jared Leto
+* *ACTRESS - IN A SUPPORTING ROLE*
+    * Sally Hawkins
+    * Jennifer Lawrence
+    * Lupita Nyong'o
+    * Julia Roberts
+    * June Squibb
 * *ANIMATED FEATURE FILM*
-    * **Brave**
-    * Frankenweenie
-    * ParaNorman
-    * The Pirates! Band of Misfits
-    * Wreck-It Ralph
+    * The Croods
+    * Despicable Me 2
+    * Ernest & Celestine
+    * Frozen
+    * The Wind Rises
 * *CINEMATOGRAPHY*
-    * Anna Karenina
-    * Django Unchained
-    * Life of Pi
-    * Lincoln
-    * **Skyfall**
+    * The Grandmaster
+    * Gravity
+    * Inside Llewyn Davis
+    * Nebraska
+    * Prisoners
 * *COSTUME DESIGN*
-    * Anna Karenina
-    * **Les Misérables**
-    * Lincoln
-    * Mirror Mirror
-    * Snow White and the Huntsman
+    * American Hustle
+    * The Grandmaster
+    * The Great Gatsby
+    * The Invisible Woman
+    * 12 Years a Slave
 * *DIRECTING*
-    * Amour
-    * Beasts of the Southern Wild
-    * Life of Pi
-    * Lincoln
-    * **Silver Linings Playbook**
+    * American Hustle
+    * Gravity
+    * Nebraska
+    * 12 Years a Slave
+    * The Wolf of Wall Street
 * *DOCUMENTARY FEATURE*
-    * 5 Broken Cameras
-    * The Gatekeepers
-    * How to Survive a Plague
-    * The Invisible War
-    * **Searching for Sugar Man**
+    * The Act of Killing
+    * Cutie and the Boxer
+    * Dirty Wars
+    * The Square
+    * 20 Feet from Stardom
 * *FILM EDITING*
-    * **Argo**
-    * Life of Pi
-    * Lincoln
-    * Silver Linings Playbook
-    * Zero Dark Thirty
+    * American Hustle
+    * Captain Phillips
+    * Dallas Buyers Club
+    * Gravity
+    * 12 Years a Slave
 * *FOREIGN LANGUAGE FILM*
-    * **Amour**
-    * Kon-Tiki
-    * No
-    * A Royal Affair
-    * War Witch
+    * The Broken Circle Breakdown
+    * The Great Beauty
+    * The Hunt
+    * The Missing Picture
+    * Omar
 * *MAKEUP AND HAIRSTYLING*
-    * Hitchcock
-    * The Hobbit: An Unexpected Journey
-    * **Les Misérables**
+    * Dallas Buyers Club
+    * Jackass Presents: Bad Grandpa
+    * The Lone Ranger
 * *MUSIC - ORIGINAL SCORE*
-    * Anna Karenina
-    * Argo
-    * **Life of Pi**
-    * Lincoln
-    * Skyfall
+    * The Book Thief
+    * Gravity
+    * Her
+    * Philomena
+    * Saving Mr. Banks
 * *MUSIC - ORIGINAL SONG*
-    * "Before My Time" from Chasing Ice
-    * "Everybody Needs A Best Friend" from Ted
-    * "Pi's Lullaby" from Life of Pi
-    * "Skyfall" from Skyfall
-    * **"Suddenly" from Les Misérables**
+    * "Alone Yet Not Alone" from Alone Yet Not Alone
+    * "Happy" from Despicable Me 2
+    * "Let It Go" from Frozen
+    * "The Moon Song" from Her
+    * "Ordinary Love" from Mandela: Long Walk To Freedom
 * *PRODUCTION DESIGN*
-    * Anna Karenina
-    * The Hobbit: An Unexpected Journey
-    * **Les Misérables**
-    * Life of Pi
-    * Lincoln
+    * American Hustle
+    * Gravity
+    * The Great Gatsby
+    * Her
+    * 12 Years a Slave
 * *SOUND EDITING*
-    * Argo
-    * Django Unchained
-    * Life of Pi
-    * Skyfall
-    * **Zero Dark Thirty**
+    * All Is Lost
+    * Captain Phillips
+    * Gravity
+    * The Hobbit: The Desolation of Smaug
+    * Lone Survivor
 * *SOUND MIXING*
-    * Argo
-    * **Les Misérables**
-    * Life of Pi
-    * Lincoln
-    * Skyfall
+    * Captain Phillips
+    * Gravity
+    * The Hobbit: The Desolation of Smaug
+    * Inside Llewyn Davis
+    * Lone Survivor
 * *VISUAL EFFECTS*
-    * The Hobbit: An Unexpected Journey
-    * **Life of Pi**
-    * Marvel's The Avengers
-    * Prometheus
-    * Snow White and the Huntsman
+    * Gravity
+    * The Hobbit: The Desolation of Smaug
+    * Iron Man 3
+    * The Lone Ranger
+    * Star Trek Into Darkness
 * *WRITING - ADAPTED SCREENPLAY*
-    * **Argo**
-    * Beasts of the Southern Wild
-    * Life of Pi
-    * Lincoln
-    * Silver Linings Playbook
+    * Before Midnight
+    * Captain Phillips
+    * Philomena
+    * 12 Years a Slave
+    * The Wolf of Wall Street
 * *WRITING - ORIGINAL SCREENPLAY*
-    * Amour
-    * **Django Unchained**
-    * Flight
-    * Moonrise Kingdom
-    * Zero Dark Thirty
+    * American Hustle
+    * Blue Jasmine
+    * Dallas Buyers Club
+    * Her
+    * Nebraska
 
