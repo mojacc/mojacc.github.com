@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roger Deakins的运气
-excerpt: 他在金像奖上的坏运气会在今年终结么？
+excerpt: <p>他在金像奖上的坏运气会在今年终结么？</p>
 ---
 
 [Roger Deakins](http://www.imdb.com/name/nm0005683/)是好莱坞最好的摄影师之一，基本上[Sam Mendes](http://www.imdb.com/title/tt1074638/)和科恩兄弟的作品都是他主镜，著名作品有:
