@@ -7,7 +7,7 @@ published: false
 废话少说:
 
 * *BEST PICTURE*
-    * American Hustle
+    * **American Hustle**
     * Captain Phillips
     * Dallas Buyers Club
     * Gravity
@@ -21,10 +21,10 @@ published: false
     * Bruce Dern
     * Leonardo DiCaprio
     * Chiwetel Ejiofor
-    * Matthew McConaughey
+    * **Matthew McConaughey**
 * *ACTRESS - IN A LEADING ROLE*
     * Amy Adams
-    * Cate Blanchett
+    * **Cate Blanchett**
     * Sandra Bullock
     * Judi Dench
     * Meryl Streep
@@ -33,10 +33,10 @@ published: false
     * Bradley Cooper
     * Michael Fassbender
     * Jonah Hill
-    * Jared Leto
+    * **Jared Leto**
 * *ACTRESS - IN A SUPPORTING ROLE*
     * Sally Hawkins
-    * Jennifer Lawrence
+    * **Jennifer Lawrence**
     * Lupita Nyong'o
     * Julia Roberts
     * June Squibb
@@ -45,27 +45,27 @@ published: false
     * Despicable Me 2
     * Ernest & Celestine
     * Frozen
-    * The Wind Rises
+    * **The Wind Rises**
 * *CINEMATOGRAPHY*
     * The Grandmaster
-    * Gravity
+    * **Gravity**
     * Inside Llewyn Davis
     * Nebraska
     * Prisoners
 * *COSTUME DESIGN*
     * American Hustle
     * The Grandmaster
-    * The Great Gatsby
+    * **The Great Gatsby**
     * The Invisible Woman
     * 12 Years a Slave
 * *DIRECTING*
     * American Hustle
-    * Gravity
+    * **Gravity**
     * Nebraska
     * 12 Years a Slave
     * The Wolf of Wall Street
 * *DOCUMENTARY FEATURE*
-    * The Act of Killing
+    * **The Act of Killing**
     * Cutie and the Boxer
     * Dirty Wars
     * The Square
@@ -74,21 +74,21 @@ published: false
     * American Hustle
     * Captain Phillips
     * Dallas Buyers Club
-    * Gravity
+    * **Gravity**
     * 12 Years a Slave
 * *FOREIGN LANGUAGE FILM*
     * The Broken Circle Breakdown
-    * The Great Beauty
+    * **The Great Beauty**
     * The Hunt
     * The Missing Picture
     * Omar
 * *MAKEUP AND HAIRSTYLING*
-    * Dallas Buyers Club
+    * *Dallas Buyers Club*
     * Jackass Presents: Bad Grandpa
     * The Lone Ranger
 * *MUSIC - ORIGINAL SCORE*
     * The Book Thief
-    * Gravity
+    * *Gravity*
     * Her
     * Philomena
     * Saving Mr. Banks
@@ -96,7 +96,7 @@ published: false
     * "Alone Yet Not Alone" from Alone Yet Not Alone
     * "Happy" from Despicable Me 2
     * "Let It Go" from Frozen
-    * "The Moon Song" from Her
+    * *"The Moon Song" from Her*
     * "Ordinary Love" from Mandela: Long Walk To Freedom
 * *PRODUCTION DESIGN*
     * American Hustle
