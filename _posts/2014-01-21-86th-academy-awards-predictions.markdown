@@ -1,20 +1,19 @@
 ---
 layout: post
 title: 86届奥斯卡金像奖预测
-published: false
 ---
 
-废话少说:
+好莱坞今年佳片不少，但却没有一部远远强于其他对手，都是各有千秋。不出意外，学院会继续分饺子。
 
 * *BEST PICTURE*
-    * **American Hustle**
+    * American Hustle
     * Captain Phillips
     * Dallas Buyers Club
     * Gravity
     * Her
     * Nebraska
     * Philomena
-    * 12 Years a Slave
+    * **12 Years a Slave**
     * The Wolf of Wall Street
 * *ACTOR - IN A LEADING ROLE*
     * Christian Bale
@@ -53,9 +52,9 @@ published: false
     * Nebraska
     * Prisoners
 * *COSTUME DESIGN*
-    * American Hustle
+    * **American Hustle**
     * The Grandmaster
-    * **The Great Gatsby**
+    * The Great Gatsby
     * The Invisible Woman
     * 12 Years a Slave
 * *DIRECTING*
@@ -74,8 +73,8 @@ published: false
     * American Hustle
     * Captain Phillips
     * Dallas Buyers Club
-    * **Gravity**
-    * 12 Years a Slave
+    * Gravity
+    * **12 Years a Slave**
 * *FOREIGN LANGUAGE FILM*
     * The Broken Circle Breakdown
     * **The Great Beauty**
@@ -83,12 +82,12 @@ published: false
     * The Missing Picture
     * Omar
 * *MAKEUP AND HAIRSTYLING*
-    * *Dallas Buyers Club*
+    * **Dallas Buyers Club**
     * Jackass Presents: Bad Grandpa
     * The Lone Ranger
 * *MUSIC - ORIGINAL SCORE*
     * The Book Thief
-    * *Gravity*
+    * **Gravity**
     * Her
     * Philomena
     * Saving Mr. Banks
@@ -96,10 +95,10 @@ published: false
     * "Alone Yet Not Alone" from Alone Yet Not Alone
     * "Happy" from Despicable Me 2
     * "Let It Go" from Frozen
-    * *"The Moon Song" from Her*
+    * **"The Moon Song" from Her**
     * "Ordinary Love" from Mandela: Long Walk To Freedom
 * *PRODUCTION DESIGN*
-    * American Hustle
+    * **American Hustle**
     * Gravity
     * The Great Gatsby
     * Her
@@ -107,17 +106,17 @@ published: false
 * *SOUND EDITING*
     * All Is Lost
     * Captain Phillips
-    * Gravity
+    * **Gravity**
     * The Hobbit: The Desolation of Smaug
     * Lone Survivor
 * *SOUND MIXING*
     * Captain Phillips
-    * Gravity
+    * **Gravity**
     * The Hobbit: The Desolation of Smaug
     * Inside Llewyn Davis
     * Lone Survivor
 * *VISUAL EFFECTS*
-    * Gravity
+    * **Gravity**
     * The Hobbit: The Desolation of Smaug
     * Iron Man 3
     * The Lone Ranger
@@ -126,12 +125,13 @@ published: false
     * Before Midnight
     * Captain Phillips
     * Philomena
-    * 12 Years a Slave
+    * **12 Years a Slave**
     * The Wolf of Wall Street
 * *WRITING - ORIGINAL SCREENPLAY*
     * American Hustle
     * Blue Jasmine
     * Dallas Buyers Club
-    * Her
+    * **Her**
     * Nebraska
 
+三月二日，拭目以待。
