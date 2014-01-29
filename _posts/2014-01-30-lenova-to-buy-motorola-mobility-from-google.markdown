@@ -5,3 +5,5 @@ external-url: http://techcrunch.com/2014/01/29/lenovo-to-buy-motorola-mobility-f
 ---
 
 真∙接盘侠II: 人傻钱多速来
+
+这续集推出的速度堪比小时代2.
