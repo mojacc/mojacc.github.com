@@ -13,17 +13,17 @@ title: 第86届奥斯卡金像奖预测
     * Her
     * Nebraska
     * Philomena
-    * **12 Years a Slave**
+    * **12 Years a Slave** - ***Winner***
     * The Wolf of Wall Street
 * *ACTOR - IN A LEADING ROLE*
     * Christian Bale
     * Bruce Dern
     * Leonardo DiCaprio
     * Chiwetel Ejiofor
-    * **Matthew McConaughey**
+    * **Matthew McConaughey** - ***Winner***
 * *ACTRESS - IN A LEADING ROLE*
     * Amy Adams
-    * **Cate Blanchett**
+    * **Cate Blanchett** - ***Winner***
     * Sandra Bullock
     * Judi Dench
     * Meryl Streep
@@ -32,34 +32,34 @@ title: 第86届奥斯卡金像奖预测
     * Bradley Cooper
     * Michael Fassbender
     * Jonah Hill
-    * **Jared Leto**
+    * **Jared Leto** - ***Winner***
 * *ACTRESS - IN A SUPPORTING ROLE*
     * Sally Hawkins
     * **Jennifer Lawrence**
-    * Lupita Nyong'o
+    * Lupita Nyong'o - ***Winner***
     * Julia Roberts
     * June Squibb
 * *ANIMATED FEATURE FILM*
     * The Croods
     * Despicable Me 2
     * Ernest & Celestine
-    * Frozen
+    * Frozen - ***Winner***
     * **The Wind Rises**
 * *CINEMATOGRAPHY*
     * The Grandmaster
-    * **Gravity**
+    * **Gravity** -***Winner***
     * Inside Llewyn Davis
     * Nebraska
     * Prisoners
 * *COSTUME DESIGN*
     * **American Hustle**
     * The Grandmaster
-    * The Great Gatsby
+    * The Great Gatsby - ***Winner***
     * The Invisible Woman
     * 12 Years a Slave
 * *DIRECTING*
     * American Hustle
-    * **Gravity**
+    * **Gravity** - ***Winner***
     * Nebraska
     * 12 Years a Slave
     * The Wolf of Wall Street
@@ -68,55 +68,55 @@ title: 第86届奥斯卡金像奖预测
     * Cutie and the Boxer
     * Dirty Wars
     * The Square
-    * 20 Feet from Stardom
+    * 20 Feet from Stardom - ***Winner***
 * *FILM EDITING*
     * American Hustle
     * Captain Phillips
     * Dallas Buyers Club
-    * Gravity
+    * Gravity -***Winner***
     * **12 Years a Slave**
 * *FOREIGN LANGUAGE FILM*
     * The Broken Circle Breakdown
-    * **The Great Beauty**
+    * **The Great Beauty** - ***Winner***
     * The Hunt
     * The Missing Picture
     * Omar
 * *MAKEUP AND HAIRSTYLING*
-    * **Dallas Buyers Club**
+    * **Dallas Buyers Club** - ***Winner***
     * Jackass Presents: Bad Grandpa
     * The Lone Ranger
 * *MUSIC - ORIGINAL SCORE*
     * The Book Thief
-    * **Gravity**
+    * **Gravity** - ***Winner***
     * Her
     * Philomena
     * Saving Mr. Banks
 * *MUSIC - ORIGINAL SONG*
     * "Alone Yet Not Alone" from Alone Yet Not Alone
     * "Happy" from Despicable Me 2
-    * "Let It Go" from Frozen
+    * "Let It Go" from Frozen - ***Winner***
     * **"The Moon Song" from Her**
     * "Ordinary Love" from Mandela: Long Walk To Freedom
 * *PRODUCTION DESIGN*
     * **American Hustle**
     * Gravity
-    * The Great Gatsby
+    * The Great Gatsby - ***Winner***
     * Her
     * 12 Years a Slave
 * *SOUND EDITING*
     * All Is Lost
     * Captain Phillips
-    * **Gravity**
+    * **Gravity** - ***Winner***
     * The Hobbit: The Desolation of Smaug
     * Lone Survivor
 * *SOUND MIXING*
     * Captain Phillips
-    * **Gravity**
+    * **Gravity** - ***Winner***
     * The Hobbit: The Desolation of Smaug
     * Inside Llewyn Davis
     * Lone Survivor
 * *VISUAL EFFECTS*
-    * **Gravity**
+    * **Gravity** - ***Winner***
     * The Hobbit: The Desolation of Smaug
     * Iron Man 3
     * The Lone Ranger
@@ -125,13 +125,15 @@ title: 第86届奥斯卡金像奖预测
     * Before Midnight
     * Captain Phillips
     * Philomena
-    * **12 Years a Slave**
+    * **12 Years a Slave** -***Winner***
     * The Wolf of Wall Street
 * *WRITING - ORIGINAL SCREENPLAY*
     * American Hustle
     * Blue Jasmine
     * Dallas Buyers Club
-    * **Her**
+    * **Her** - ***Winner***
     * Nebraska
 
 三月二日，拭目以待。
+
+***Updated: 命中14/21，重要奖项基本没错***

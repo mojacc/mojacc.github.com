@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roger Deakins的运气
+title: Roger Deakins的坏运气尚未终结
 excerpt: <p>他在金像奖上的坏运气会在今年终结么？</p>
 ---
 
@@ -40,3 +40,5 @@ excerpt: <p>他在金像奖上的坏运气会在今年终结么？</p>
 延伸阅读1: [Oscars Postmortem: A Tribute to Roger Deakins](http://www.awardsdaily.com/blog/oscars-post-mortem-a-tribute-to-roger-deakins/)
 
 延伸阅读2: [How Master Cinematographer Roger Deakins Got These Ten Shots](http://www.vulture.com/2013/02/how-master-dp-roger-deakins-got-these-10-shots.html)
+
+***Updated: 果然再次输给了[Gravity](http://www.imdb.com/title/tt1454468/)***
